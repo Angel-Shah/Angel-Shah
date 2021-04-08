@@ -9,7 +9,7 @@
 
 - 📫 How to reach me **a239shah@uwaterloo.ca**
 
-- ⚡ Fun fact **I like to read books about physics and psychology**
+- ⚡ Fun fact: **I like to read books about physics and psychology**
 
 
 <h3 align="left">Languages and Tools:</h3>
