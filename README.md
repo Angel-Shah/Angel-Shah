@@ -1,11 +1,11 @@
 <h1 align="center">Hi 👋, I'm Angel</h1>
 <h3 align="center">A tech-enthusiast studying Computer Engineering at the University of Waterloo.</h3>
 
-- 🔭 I’m currently working on [Gideon, a personal smart voice assistant]((you can find the repo below!))
+- 🔭 I’m currently working on Gideon, a personal smart voice assistant (you can find the repo below!)
 
 - 🌱 I’m currently learning **Tensorflow, Flask, FastAPI, and MongoDB**
 
-- 👨‍💻 All of my projects are available [here on Github and on my Devpost-> https://devpost.com/AngelShah](here on Github and on my Devpost-> https://devpost.com/AngelShah)
+- 👨‍💻 All of my projects are available here on Github and on my Devpost-> https://devpost.com/AngelShah
 
 - 📫 How to reach me **a239shah@uwaterloo.ca**
 
