@@ -2,7 +2,7 @@
 <h3 align="center">A tech-enthusiast studying Computer Engineering at the University of Waterloo.</h3>
 Last summer I was a Software Intern at IntelliCulture and currently I'm interning at Agriculture & Agri-Food Canada as an Applications Developer.
 
-***Currently I'm searching for Fall 2021 internships!***
+***Currently I'm searching for Fall 2021 internships***
 
 - 🔭 I’m currently working on **Gideon, a personal smart voice assistant** (you can find the repo below!)
 
