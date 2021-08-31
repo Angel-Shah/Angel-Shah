@@ -3,7 +3,7 @@
 Last summer I was a Software Intern at IntelliCulture and right now I'm interning at Agriculture & Agri-Food Canada as an Applications Developer.
 
 
-***Currently I'm searching for Fall 2021 internships.***
+***Currently I'm searching for Summer 2022 internships.***
 
 - 🔭 I’m currently working on **Gideon, a personal smart voice assistant** (you can find the repo below!)
 
