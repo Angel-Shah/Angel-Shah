@@ -1,6 +1,5 @@
 <h1 align="center">Hi 👋, I'm Angel</h1>
 <h3 align="center">A tech-enthusiast studying Computer Engineering at the University of Waterloo.</h3>
-Last summer I was a Software Intern at IntelliCulture and right now I'm interning at Agriculture & Agri-Food Canada as an Applications Developer.
 
 
 ***Currently I'm searching for Summer 2022 internships.***
