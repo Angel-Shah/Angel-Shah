@@ -4,7 +4,7 @@
 
 ***Currently I'm searching for Winter and Summer 2023 internships.***
 
-- 🔭 I’m currently working on **Gideon, a personal smart voice assistant** (you can find the repo below!)
+- 🔭 I’m currently a 3rd-year student and just finished my previous internship @ Oracle as a SWE Co-op
 
 - 🌱 I’m currently learning **Tensorflow, Flask, FastAPI, and MongoDB**
 
