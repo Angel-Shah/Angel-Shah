@@ -2,11 +2,11 @@
 <h3 align="center">A tech-enthusiast studying Computer Engineering at the University of Waterloo.</h3>
 
 
-***Currently I'm searching for Winter and Summer 2023 internships.***
+***Currently, I'm searching for Summer & Fall 2023 internships.***
 
-- 🔭 I’m currently a 3rd-year student and just finished my previous internship @ Oracle as a SWE Co-op
+- 🔭 I’m a rising 4th-year student and am currently interning at Amazon as an SDE intern!
 
-- 🌱 I’m currently learning **Tensorflow, Flask, FastAPI, and MongoDB**
+- 🌱 I’m looking to learn more about ML/AI development and am currently learning **Tensorflow,Pytorch, OpenCV**
 
 - 👨‍💻 All of my projects are available **here on Github and on my Devpost-> https://devpost.com/AngelShah**
 
