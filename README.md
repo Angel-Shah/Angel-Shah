@@ -6,7 +6,7 @@
 
 - 🔭 I’m a rising 4th-year student and am currently interning at Amazon as an SDE intern! (LinkedIn -> https://www.linkedin.com/in/angel-shah)
 
-- 🌱 I’m looking to learn more about ML/AI development and am currently learning **Tensorflow,Pytorch, OpenCV**
+- 🌱 I’m interested in Backend technologies and programming efficient, low-latency code!
 
 - 👨‍💻 All of my projects are available **here on Github and on my Devpost-> https://devpost.com/AngelShah**
 
