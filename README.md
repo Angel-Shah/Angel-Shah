@@ -2,9 +2,9 @@
 <h3 align="center">A tech-enthusiast studying Computer Engineering at the University of Waterloo.</h3>
 
 
-***Currently, I'm searching for Summer & Fall 2023 internships.***
+***Currently, I'm searching for 2024 New Grad Software Opportunities.***
 
-- 🔭 I’m a rising 4th-year student and am currently interning at Amazon as an SDE intern! (LinkedIn -> https://www.linkedin.com/in/angel-shah)
+- 🔭 I’m a 4th-year senior student and am currently interning at Sparta Energy as a Software Trading Analyst! (LinkedIn -> https://www.linkedin.com/in/angel-shah)
 
 - 🌱 I’m interested in Backend technologies and programming efficient, low-latency code!
 
